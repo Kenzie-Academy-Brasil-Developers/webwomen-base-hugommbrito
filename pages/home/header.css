@@ -1,0 +1,38 @@
+.background-img{
+    width: 100vw;
+    height: 70vh;
+
+    background-image: url("../../assets/img/Pexels\ Photo\ by\ Christina\ Morillo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    position: fixed;
+    z-index: -1;
+}
+header > section{
+    width: 100vw;
+    height: 70vh;
+}
+
+.top-part{
+    height: 70vh;
+    justify-content: space-around;
+}
+.top-part > img{
+    width: 11.875rem;
+}
+
+@media (max-width: 991px){
+    .background-img{
+        height: 100vh;
+    }
+
+    header > section{
+        height: 100vh;
+    }
+
+    .top-part{
+        height: 100vh;
+    }
+}

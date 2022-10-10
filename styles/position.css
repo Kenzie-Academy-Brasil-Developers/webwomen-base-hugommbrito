@@ -1,0 +1,21 @@
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    display: flex;
+    flex-direction: column;
+}
+
+.spc-btwn{
+    justify-content: space-between;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.gap-8{
+    gap: var(--gap-8);
+}
+

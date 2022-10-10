@@ -1,0 +1,26 @@
+OK    1 - Fazer componentização
+OK        I - Organizar Scaffold
+OK        II - Aplicar estilos do site ao Scaffold
+OK        III - Substituir clone pelo Scaffold formatado
+OK    2 - fazer estrutura HTML
+OK    3 - Estilizar
+OK        I - Estilizar para Desktop 
+OK            a - Colocar botão levando para a seção de vagas
+OK            b - Aside com mensagem de vazio
+OK        II - Adaptar para mobile
+OK        III - Conferir se está responsivo
+OK        IV - Conferir se está FIEL ao figma
+OK    5 - Aplicar Lógica
+OK        I - Renderizar vagas
+OK        II - Aplicar para vagas
+OK            a - Mudar botão
+OK            b - renderizar vagas selecionadas
+OK        III - Remover candidatura
+OK            a - remover tanto pelo botão das vagas quanto pelo botão do Aside
+OK            b - Mudar botão
+OK            c - renderizar vagas selecionadas
+OK    6 - Dados no LocalStorage
+OK        I - Armazenar vagas selecionadas no LocalStorage
+OK        II - Armazenar Lista de vagas no LocalStorage
+OK        III - Ler vagas selecionadas ao inicializar
+OK        IV - Ler lista de vagas ao inicializar
