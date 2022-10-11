@@ -12,6 +12,10 @@ section{
     border-radius: var(--radius-2);
 }
 
+pre{
+    white-space: pre-wrap;
+}
+
 @media (max-width: 991px){
     .container{
         padding: 2rem;
